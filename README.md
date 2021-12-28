@@ -1,2 +1,3 @@
 # Currency-Converter-Tkinter
-# About:
+## About:
+Simple Currency converter GUI using Tkinter
